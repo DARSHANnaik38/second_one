@@ -1,2 +1,2 @@
 # second_one
-this is second reopsitory
+this is second reopsitory by dgn
