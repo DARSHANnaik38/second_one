@@ -1,2 +1,2 @@
-# second_one
+# MY PORTFOLIO
 this is second reopsitory by dgn
